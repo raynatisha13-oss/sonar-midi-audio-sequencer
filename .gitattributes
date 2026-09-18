@@ -1,0 +1,11 @@
+# This file is used to override language statistics 
+# Generated on 2026-11-10
+
+*.gif binary
+
+*.bat text eol=crlf
+*.html linguist-vendored
+*.svg text
+src/**/*.astro linguist-detectable
+package-lock.json linguist-generated
+public/**/*.html linguist-vendored
